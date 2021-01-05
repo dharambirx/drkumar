@@ -1,0 +1,498 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.slide-height {
+	min-height: 600px;
+}
+.fact-wrapper {
+	padding: 0 20px;
+	padding-top: 170px;
+}
+.fact-single span {
+	font-size: 60px;
+}
+.fact-single h3 {
+	font-size: 25px;
+}
+.fact-text {
+	padding: 64px;
+}
+.fact-text h3 {
+	font-size: 40px;
+}
+.header-middle-2::before {
+	width: 200px;
+}
+.slide-height-full {
+	min-height: 760px;
+}
+
+
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.logo-top {
+	margin-top: -15px;
+}
+.main-menu ul li {
+	margin-right: 22px;
+}
+.slide-height {
+	min-height: 600px;
+}
+.who-wrapper img {
+	width: 100%;
+}
+.fact-wrapper {
+	padding-bottom: 140px;
+}
+.area-title p {
+	padding: 0 50px;
+}
+.fact-single span {
+	font-size: 66px;
+}
+.fact-wrapper::before {
+	display: none;
+}
+.blog-title h3 {
+	font-size: 18px;
+}
+.footer-widget h3 {
+	font-size: 25px;
+}
+.instagram-list li img {
+	width: 100%;
+}
+.header-middle-2::before {
+	width: 150px;
+}
+.prof-img {
+	padding-left: 0;
+}
+.single-counter span {
+	font-size: 48px;
+}
+.single-counter h3 {
+	font-size: 18px;;
+}
+.care-text {
+	padding: 50px 35px;
+}
+.slide-height-full {
+	min-height: 700px;
+}
+.best-ins-text.prof-content {
+	padding-right: 0;
+}
+.our-hope img {
+	width: 100%;
+}
+.best-ins-text h2 {
+	margin-top: 50px;
+}
+.blog-wrapper.mb-60 {
+	margin-bottom: 30px;
+}
+.contact-meta {
+	margin-bottom: 21px;
+}
+.h-cta-text span {
+	font-size: 13px;
+}
+.insurance-column img {
+	width: 100%;
+}
+.main-menu ul li ul.submenu {
+	left: -60px;
+}
+
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.top-bar-menu ul li {
+	margin-left: 10px;
+}
+.top-bar-menu ul li a::before {
+	display: none;
+}
+.main-menu ul li ul.submenu {
+	left: -60px;
+}
+.main-menu ul li {
+	margin-right: 10px;
+}
+.logo-top img {
+	width: 150px;
+}
+.logo-top {
+	margin-top: -15px;
+}
+.slide-height {
+	min-height: 500px;
+}
+.slide-content h1 {
+	font-size: 44px;
+}
+.slide-content p {
+	font-size: 15px;
+	line-height: 26px;
+	margin-bottom: 25px;
+}
+.fact-wrapper {
+	padding-bottom: 140px;
+}
+.fact-single span {
+	font-size: 55px;
+}
+.fact-wrapper::before {
+	display: none;
+}
+.fact-wrapper {
+	padding: 100px 15px;
+}
+.fact-single h3 {
+	font-size: 18px;
+}
+.blog-thumb img {
+	width: 100%;
+}
+.instagram-list li {
+	width: inherit;
+}
+.header-middle-2::before {
+	width: 150px;
+}
+.cta-wrapper .cta-md-none{display: none}
+.prof-img {
+	padding-left: 0;
+}
+.best-ins-text {
+	margin-bottom: 90px;
+}
+.fact-area {
+	padding: 120px 0;
+}
+.test-box {
+	margin-bottom: 50px;
+}
+.logo.logo-bottom img {
+	width: 187px;
+}
+.logo.logo-bottom {
+	margin-bottom: -30px;
+}
+.logo-bottom img {
+	margin-bottom: 0;
+}
+.slide-height-full {
+	min-height: 700px;
+}
+.best-ins-text.prof-content {
+	margin-bottom: 0;
+}
+.team-icon a {
+	height: 32px;
+	width: 32px;
+	line-height: 31px;
+	font-size: 17px;
+	margin: 0 1px;
+}
+.prof-thumb {
+	margin-bottom: 20px;
+}
+.h-cta-text span {
+	font-size: 13px;
+}
+.post-comments-form {
+	padding-right: 0;
+}
+.left-sidebar{margin-bottom: 70px;}
+.get-agent-area {
+	padding: 100px 0;
+}
+.get-agent h2 {
+	color: #ffffff;
+	font-size: 48px;
+	padding-right: 0;
+	line-height: 55px;
+	margin-bottom: 30px;
+}
+.insurance-column img {
+	width: 100%;
+}
+.header-menu-area.menu-style-2 {
+	padding-top: 20px;
+}
+.quote-bg {
+	display: none;
+}
+.quote-form-box {
+	width: 100%;
+}
+.header-search-3 {
+	display: none !important;
+}
+
+
+
+}
+
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.welcome-msg {
+	text-align: center;
+}
+.welcome-msg span {
+	line-height: 1.5;
+}
+.top-bar-menu ul li {
+	margin: 0 5px;
+}
+.top-bar-menu ul li a::before {
+	display: none;
+}
+.logo-top {
+	margin-top: 0;
+}
+.logo-top img {
+	width: 150px;
+}
+.header-middle-area {
+	padding: 0;
+}
+.top-bar-menu ul li a {
+	padding: 3px 0;
+}
+.header-top-bar {
+	padding: 15px 0;
+}
+.welcome-msg {
+	margin-bottom: 0;
+	display: none;
+}
+.slide-height {
+	min-height: 500px;
+}
+.slide-content h1 {
+	font-size: 29px;
+}
+.slide-content p {
+	font-size: 15px;
+	line-height: 26px;
+	margin-bottom: 25px;
+}
+.fact-text {
+	padding: 50px;
+}
+.fact-wrapper::before {
+	display: none;
+}
+.fact-single {
+	width: 100%;
+	margin-bottom: 25px;
+}
+.fact-wrapper {
+	padding: 0;
+	padding-top: 0;
+	padding: 30px;
+	padding-top: 50px;
+}
+.who-wrapper img {
+	width: 100%;
+}
+.testimonial-nav {
+	width: 270px;
+}
+.footer-spcial a {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.copyright {
+	text-align: center;
+	margin-bottom: 10px;
+}
+.fact-single span {
+	font-size: 56px;
+}
+.fact-single h3 {
+	font-size: 18px;
+}
+.fact-text {
+	padding: 50px 20px;
+}
+.logo-white {
+	width: 165px;
+}
+.header-middle-2::before {
+	width: 100px;
+}
+.cta-wrapper .cta-header{display: none}
+.instagram-list li {
+	width: inherit;
+}
+.logo.logo-bottom img {
+	width: 187px;
+}
+.logo-bottom img {
+	margin-bottom: 0;
+}
+.header-search-3{display: none !important}
+.prof-img {
+	padding-left: 15px;
+}
+.best-ins-img img {
+	width: 100%;
+}
+.best-ins-list li {
+	width: 100%;
+}
+.best-ins-text {
+	padding-bottom: 50px;
+}
+.fact-area {
+	padding: 100px 0;
+}
+.test-box {
+	margin-bottom: 45px;
+}
+.slide-height-full {
+	min-height: 600px;
+}
+.prof-thumb {
+	margin-bottom: 20px;
+}
+.best-ins-text.prof-content {
+	margin-bottom: 0;
+}
+.best-ins-text.prof-content {
+	padding-right: 0;
+}
+.best-ins-text.prof-content {
+	padding-bottom: 50px;
+}
+.our-hope img {
+	width: 100%;
+}
+.blog-share-icon {
+	margin-top: 20px;
+}
+.comments-reply {
+	padding-left: 0;
+}
+.post-comments-form {
+	padding-right: 0;
+}
+.contact-info {
+	padding: 60px 25px;
+}
+.contact-form {
+	padding: 60px 25px;
+}
+.portfolio-menu > button {
+	margin: 0 5px;
+	padding: 7px 2px;
+}
+.left-sidebar{margin-bottom: 70px;}
+.cta-middle h1 {
+	font-size: 30px;
+}
+.cta-middle h2 {
+	font-size: 32px;
+}
+.get-agent-area {
+	padding: 100px 0;
+}
+.get-agent h2 {
+	font-size: 31px;
+	padding-right: 0;
+	line-height: 37px;
+}
+.get-agent input {
+	margin-bottom: 15px;
+}
+.insurance-column {
+	margin-bottom: 20px;
+}
+.insurance-column img {
+	width: 100%;
+}
+.insurance-details img {
+	width: 100%;
+}
+.faq-wrapper .btn-link {
+	font-size: 15px;
+	padding: 20px 6px;
+}
+.header-menu-area.menu-style-2 {
+	padding-top: 16px;
+}
+.page-title h3 {
+	color: #fff;
+	font-size: 23px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+.promotion-text h3 {
+	font-size: 28px;
+}
+.xs-none{display: none}
+.quote-form-box {
+	width: 100%;
+	padding: 45px 20px;
+	padding-top: 10px;
+}
+.quote-bg {
+	display: none;
+}
+.quote-tab {
+	position: static;
+	padding-left: 20px;
+	padding-top: 40px;
+}
+.quote-tab li {
+	margin-right: 13px;
+}
+.quote-form h3 {
+	margin-top: 0;
+}
+.quote-form .range-input input {
+	width: 83px;
+	padding: 0;
+}
+.range-input {
+	float: right;
+	display: inline-block;
+}
+
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+.instagram-list li {
+	width: inherit;
+}
+.who-wrapper img {
+	width: inherit;
+}
+.best-ins-img img {
+	width: inherit;
+}
+.our-hope img {
+	width: inherit;
+}
+.faq-wrapper .btn-link {
+	font-size: 18px;
+	padding: 20px 15px;
+}
+
+
+
+}
